@@ -1,0 +1,7 @@
+DND5e/Dungeon[[:space:]]Master's[[:space:]]Guide.pdf filter=lfs diff=lfs merge=lfs -text
+Physics/E&M[[:space:]]-[[:space:]]Optics[[:space:]]-[[:space:]]Hecht.pdf filter=lfs diff=lfs merge=lfs -text
+Physics/CM,[[:space:]]MATH[[:space:]]-[[:space:]]Foundations[[:space:]]of[[:space:]]Mechanics[[:space:]]-[[:space:]]Abraham,[[:space:]]Marsden.pdf filter=lfs diff=lfs merge=lfs -text
+Machine_Learning/6.[[:space:]]Reinforcement[[:space:]]Learning[[:space:]]Books/Reinforce[[:space:]]Learning-An[[:space:]]introduction,[[:space:]]2nd[[:space:]]edition-2018.pdf filter=lfs diff=lfs merge=lfs -text
+Physics/QC[[:space:]]-[[:space:]]Introduction[[:space:]]to[[:space:]]Quantum[[:space:]]Mechanics[[:space:]]in[[:space:]]Chemistry[[:space:]]-[[:space:]]Ratner,Schatz.pdf filter=lfs diff=lfs merge=lfs -text
+Physics/Computational[[:space:]]Physics[[:space:]]-[[:space:]]Mark[[:space:]]Newman.pdf filter=lfs diff=lfs merge=lfs -text
+Physics/QC[[:space:]]-[[:space:]]Molecular[[:space:]]Electronic[[:space:]]Structure[[:space:]]Theory[[:space:]]-[[:space:]]Helgaker,[[:space:]]Jorgensen,[[:space:]]Olsen.pdf filter=lfs diff=lfs merge=lfs -text
